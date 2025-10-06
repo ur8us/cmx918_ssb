@@ -5,7 +5,7 @@ Simplified schematic: Antenna - CMX918 (TPs 9,10,11 of the DRM1000 module) -> (S
 
 Based on the SPItoMyselfAsync example from the SPISlave Arduino library by Earle F. Philhower, III. ( https://github.com/earlephilhower/arduino-pico )
 
-Demo:
+Demo: The very first use of the CMX918 chip to receive SSB. Demodulator is based on the RP2350 microprocessor with an output to MAX98357A D-class audio amplifier. Antenna is 1m wire.
 https://www.youtube.com/watch?v=lPEvQfSI_JY&feature=youtu.be
 
 <img width="1271" height="706" alt="image" src="https://github.com/user-attachments/assets/1bc2acfc-d336-40eb-beca-08fa46fc4771" />
